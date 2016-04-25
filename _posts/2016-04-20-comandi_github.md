@@ -25,7 +25,7 @@ Si potrebbero anche usare:
 * `git add -A` --> fa sia aggiungi che rimuovi, ma di tutte le modifiche fatte nel repo (come se usassi ".")
 
 ### Dopo aver completato le modifiche:
-`git status`  --> verifico le modifiche che ho fatto -- fa vedere in verde le modifiche che ho registrato, in rosso se non le ho registrate
-`git commit -m "descrizione modifiche"` --> faccio effettivamente il commit delle modifiche, di cui git fa uno snapshot che le rende pronte al push
-`git push origin master` --> sincronizza VERSO il server
+`git status`  --> verifico le modifiche che ho fatto -- fa vedere in verde le modifiche che ho registrato, in rosso se non le ho registrate  
+`git commit -m "descrizione modifiche"` --> faccio effettivamente il commit delle modifiche, di cui git fa uno snapshot che le rende pronte al push  
+`git push origin master` --> sincronizza VERSO il server  
 
