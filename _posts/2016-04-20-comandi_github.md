@@ -2,7 +2,7 @@
 layout: post
 title:  "Comandi Git da terminale"
 date:   2016-04-20 11:40:00 +0200
-categories: test
+categories: post
 ---
 
 # Comandi Git da terminale
